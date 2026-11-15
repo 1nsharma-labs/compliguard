@@ -73,3 +73,12 @@ See [PRICING.md](PRICING.md) for full details.
 
 * **GitHub Sponsors:** [github.com/sponsors/1nsharma](https://github.com/sponsors/1nsharma)
 * **Maintained by:** [1nsharma-labs](https://github.com/1nsharma-labs)
+
+---
+
+## 🌐 The 1nsharma-labs Open-Source Suite
+
+Explore our interconnected developer tools to slash costs and automate governance:
+* 🛡️ [**TokenArmor**](https://github.com/1nsharma-labs/tokenarmor): AI Gateway & Token FinOps Firewall.
+* 🍃 [**CloudPrune**](https://github.com/1nsharma-labs/cloudprune): AWS & GCP Cloud Waste & Zombie Resource Killer.
+* 🔒 [**CompliGuard**](https://github.com/1nsharma-labs/compliguard): Continuous SOC 2 & ISO 27001 Evidence Engine.
