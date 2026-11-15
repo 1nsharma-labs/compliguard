@@ -1,0 +1,6 @@
+node_modules/
+compliguard-soc2-report.html
+compliguard-evidence.json
+.env
+*.log
+.DS_Store
